@@ -11,3 +11,6 @@ Content-Type: application/json
 
 ### Get a particular message
 GET http://localhost:3000/messages/728
+
+### Computer
+GET http://localhost:3000/computer
